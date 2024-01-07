@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Linear Regression Assignment
 > To understand the demand of Bike sharing rentals on different feature variables and how are their impact on business. Create multiple linear regresssion to solve the problem and do the inference.
 
 
