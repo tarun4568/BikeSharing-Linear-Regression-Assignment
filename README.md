@@ -39,5 +39,5 @@ Give credit here.
 
 
 ## Contact
-Created by [@tarun4568] - feel free to contact me!
+Created by @tarun4568 - feel free to contact me!
 
